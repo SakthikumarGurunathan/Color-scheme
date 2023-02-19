@@ -4,7 +4,7 @@ html, body {
     background-color: gray;
 }
 .data{
-    margin-top:5px; 
+    margin-top:8px; 
     display: flex;
     justify-content: center;
     column-gap: 10px;
