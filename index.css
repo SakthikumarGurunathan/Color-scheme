@@ -28,6 +28,10 @@ button{
     background-color: blanchedalmond;
     border: 1px solid gray;
     border-radius: 5px;
+    cursor:pointer;
+}
+button:active{
+    box-shadow:2px 2px 4px black; 
 }
 .colors{
     margin-top: 4px;
