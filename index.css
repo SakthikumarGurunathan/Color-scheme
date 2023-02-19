@@ -4,7 +4,7 @@ html, body {
     background-color: gray;
 }
 .data{
-    margin-top:20px; 
+    margin-top:5px; 
     display: flex;
     justify-content: center;
     column-gap: 10px;
@@ -30,7 +30,7 @@ button{
     border-radius: 5px;
 }
 .colors{
-    margin-top: 8px;
+    margin-top: 4px;
     margin-left: 10px;
     display: flex;
     justify-content: center;
@@ -57,6 +57,7 @@ button{
 }
 
 .hex-values {
+    margin-top :0px;
     display: flex;
     font-family: 'Inter';
     font-style: normal;
@@ -67,6 +68,4 @@ button{
     gap:110px;
     justify-content: center;
 }
-.hex {
-    margin-top: 10px;
-}
+
